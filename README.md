@@ -2,8 +2,9 @@
 
 A modern, responsive fitness tracker dashboard built with React, TypeScript, Tailwind CSS, and Recharts. FitTrack provides a comprehensive view of your daily fitness metrics including steps, calories, heart rate, workout history, and weekly progress trends.
 
-![FitTrack Overview](Screenshot-1.png)
-![FitTrack Activity & Workout Views](Screenshot-2.png)
+![FitTrack Overview](DASHBOARD.png)
+![FitTrack Activity](TRACKING.png)
+![FitTrack Exercises](EXERCISES.png)
 
 ---
 
